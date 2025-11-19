@@ -1,0 +1,3 @@
+[submodule "ISIS3"]
+	path = ISIS3
+	url = git@github.com:DOI-USGS/ISIS3.git
